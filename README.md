@@ -30,9 +30,8 @@ slack_order_app/
 
 ### Prerequisites
 
-- Node.js (v16 or higher recommended)
-- npm
-- Azure Functions Core Tools (for local development)
+- Node.js
+- Azure Functions
 - A Slack App with necessary permissions
 
 ## Deployment
